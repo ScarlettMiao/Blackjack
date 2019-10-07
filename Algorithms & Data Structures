@@ -1,0 +1,7 @@
+
+Algorithm:
+Used Fisher-Yates / Durstenfeld shuffle algorithm to shuffle card.
+
+Data Structure:
+Used const arrays for the number/name of cards.
+Used vector for hand cards of player and dealer.
