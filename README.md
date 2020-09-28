@@ -1,6 +1,5 @@
 # Blackjack
-Simple Blackjack game in C++.
-Used C++ because it's the language that I'm the most familiar with.
+A simple Blackjack game in C++.
 
 Run the game:
 
